@@ -1,0 +1,12 @@
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/bin/Debug/netcoreapp3.1/Server.deps.json
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.json
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.dev.json
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/bin/Debug/netcoreapp3.1/Server.dll
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/bin/Debug/netcoreapp3.1/Server.pdb
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfoInputs.cache
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfo.cs
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.csproj.CoreCompileInputs.cache
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.dll
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.pdb
+/Users/ombikramrana/Downloads/RAWDATA_2020_LiveCode2-master 2/Server/obj/Debug/netcoreapp3.1/Server.genruntimeconfig.cache
